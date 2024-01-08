@@ -1,5 +1,5 @@
 # leukemia-classification
 
-[Apresentação de slides](https://brunomingoti.github.io/leukemia-classification/docs/Slides.pdf)
+[Apresentação de slides](https://brunomingoti.github.io/leukemia-classification/docs/slides.pdf)
 
-[Relatório](https://brunomingoti.github.io/leukemia-classification/docs/Report.pdf)
+[Relatório](https://brunomingoti.github.io/leukemia-classification/docs/report.pdf)
